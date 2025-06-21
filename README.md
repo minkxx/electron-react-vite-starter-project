@@ -2,9 +2,14 @@
 
 ---
 
-This repository provides a robust starter template for building **desktop applications with Electron, React, and Vite**. It's set up using **Electron Forge's official Vite template**, offering a fast and efficient development experience with hot-reloading and optimized bundling.
+This repository provides a robust starter template for building **desktop applications with Electron, React, and Vite**. It's set up using **Electron Forge's official Vite template**, offering a fast and efficient development experience with hot-reloading and optimized bundling as shown in the following [Tutorial](https://youtu.be/pGMsTYIcerg).
 
-Whether you're new to Electron or looking for a modern, performant stack for your next desktop app, this project gives you a solid foundation.
+
+## Watch the Tutorial on Youtube:
+
+## [![Tutorial](https://img.youtube.com/vi/pGMsTYIcerg/0.jpg)](https://youtu.be/pGMsTYIcerg)
+
+A step‑by‑step video walkthrough demonstrating how to scaffold the project, integrate React via Vite, and push to GitHub.
 
 ## Features
 
@@ -40,7 +45,9 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 ### Installation
 
 1.  **Clone the repository:**
- 
+    ```
+    git clone https://github.com/PikoCanFly/electron-react-vite-starter-project
+    ```
 
 2.  **Navigate into the project directory:**
     ```bash
