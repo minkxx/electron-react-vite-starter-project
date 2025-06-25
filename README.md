@@ -2,12 +2,12 @@
 
 ---
 
-This repository provides a robust starter template for building **desktop applications with Electron, React, and Vite**. It's set up using **Electron Forge's official Vite template**, offering a fast and efficient development experience with hot-reloading and optimized bundling as shown in the following [Tutorial](https://youtu.be/pGMsTYIcerg).
+This repository provides a robust starter template for building **desktop applications with Electron, React, and Vite**. It's set up using **Electron Forge's official Vite template**, offering a fast and efficient development experience with hot-reloading and optimized bundling as shown in the following [Tutorial](https://youtu.be/XmSQtyPjbxY).
 
 
 ## Watch the Tutorial on Youtube:
 
-## [![Tutorial](https://img.youtube.com/vi/pGMsTYIcerg/0.jpg)](https://youtu.be/pGMsTYIcerg)
+## [![Tutorial](https://img.youtube.com/vi/XmSQtyPjbxY/0.jpg)](https://youtu.be/XmSQtyPjbxY)
 
 A step‑by‑step video walkthrough demonstrating how to scaffold the project, integrate React via Vite, and push to GitHub.
 
