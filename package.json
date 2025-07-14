@@ -1,6 +1,6 @@
 {
-  "name": "electron-react",
-  "productName": "electron-react",
+  "name": "electron-react-tailwindcss",
+  "productName": "electron-react-tailwindcss",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".vite/build/main.js",
@@ -13,8 +13,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "Piko",
-    "email": "pikocanfly@gmail.com"
+    "name": "Monsur",
+    "email": "monsurcodes@gmail.com"
   },
   "license": "MIT",
   "devDependencies": {
@@ -31,9 +31,11 @@
     "vite": "^5.4.19"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
     "@vitejs/plugin-react": "^4.5.2",
     "electron-squirrel-startup": "^1.0.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.11"
   }
 }
